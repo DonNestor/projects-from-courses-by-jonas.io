@@ -19,6 +19,8 @@ Project is created with:
 
 ## Screenshots
 ![Natours](/Natours/img/logo-green-2x.png)
+![Header](Natours/img/screenshot-header.jpg)
+![Main](Natours/img/screenshot-main.jpg)
 
 
  ### Project Status
